@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jace0327
+- 👀 I’m interested in game design and software development
+- 🌱 I’m currently learning about data structures, Python, JavaScript, HTML, and Unreal Engine 4
